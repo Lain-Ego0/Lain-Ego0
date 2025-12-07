@@ -27,9 +27,9 @@ A junior undergraduate & robotics enthusiast, currently interning at a humanoid 
 ## Open Source Contributions  
 | Project | Description | Tech Stack |  
 |---------|-------------|------------|  
-| [BRS Parallel Quadruped](https://github.com/lain-ego0/BRS-Quadruped) | Open-source parallel-structure quadruped robot (mechanical + control code) | Robotics, Mechanical Design |  
-| [SliverWolf Desktop Quadruped](https://github.com/lain-ego0/SliverWolf) | Compact serial quadruped with voice control & robotic arm collaboration | STM32, IMU, Voice Control |  
-| [Quadruped Robot Knowledge Base](https://github.com/lain-ego0/Quadruped-Knowledge-Base) | Documentation of mechanics, electronics, and algorithms for quadruped R&D | Knowledge Sharing |  
+| [BRS Parallel Quadruped](https://github.com/lain-ego0/BRS-Parallel-Robot) | Open-source parallel-structure quadruped robot (mechanical + control code) | Robotics, Mechanical Design |  
+| [SliverWolf Desktop Quadruped](https://github.com/lain-ego0/SliverWolf-ArmRobotDog) | Compact serial quadruped with voice control & robotic arm collaboration | STM32, IMU, Voice Control |  
+| [Quadruped Robot Knowledge Base](https://wcn9j5638vrr.feishu.cn/wiki/space/7570988375279517715?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home) | Documentation of mechanics, electronics, and algorithms for quadruped R&D | Knowledge Sharing |  
 
 ## 📫 Get In Touch  
 - Email: lain-ego@qq.com  
