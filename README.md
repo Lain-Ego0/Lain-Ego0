@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Lain-Ego!  
+# Hi, I'm Lain-Ego!  
 A junior undergraduate & robotics enthusiast, currently interning at a humanoid robot company. Passionate about bridging mechanics, electronics, and algorithms to build intelligent robotic systems.  
 
-## 🚀 Core Expertise  
+## Core Expertise  
 - **Embedded Development**: STM32/ESP32, FreeRTOS, C/C++  
 - **Robotics Tech**: Motion Control, RL, SLAM, ROS/ROS2, Gazebo  
 - **Hardware Design**: Altium, SolidWorks，JLCPCB  
@@ -24,7 +24,7 @@ A junior undergraduate & robotics enthusiast, currently interning at a humanoid 
 - Controlled DJI3508 motors for gripper lifting & omni-directional chassis  
 - Supported multi-robot collaboration; involved in gas circuit design & hardware wiring  
 
-## 🌟 Open Source Contributions  
+## Open Source Contributions  
 | Project | Description | Tech Stack |  
 |---------|-------------|------------|  
 | [BRS Parallel Quadruped](https://github.com/lain-ego0/BRS-Quadruped) | Open-source parallel-structure quadruped robot (mechanical + control code) | Robotics, Mechanical Design |  
