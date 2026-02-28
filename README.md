@@ -26,7 +26,7 @@ I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-sourc
 
 ---
 
-# 🛠 Technical Stack
+## 🛠 Technical Stack
 
 ### 📐 Modeling & CAD
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
@@ -63,7 +63,7 @@ I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-sourc
 
 ---
 
-# 📸 Featured Projects
+## 📸 Featured Projects
 > Check out my [GitHub Repositories](https://github.com/lain-ego0?tab=repositories) for full source code and detailed documentation.
 
 - **[BRS Parallel Quadruped Robot](https://github.com/lain-ego0/ROBOCON-BRS_robot)** - Full-stack open-source project of a parallel-structure quadruped robot, including mechanical design, embedded control system, and motion planning algorithms. Applied in 2025 ROBOCON National Competition. `ROS2` `C++` `Mechanical Design` `Open Source`
@@ -88,10 +88,6 @@ I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-sourc
 </p>
 
 <p align="center">
-  <!-- 修复方案1：使用官方源并增加缓存时间 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lain-ego0&show_icons=true&theme=radical&cache_seconds=86400" alt="Lain-Ego's GitHub Stats" />
-  <br><br>
-  <!-- 修复方案2：增加一个 Streak 卡片作为补充（如果上面的还是挂了，这个通常更稳定） -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lain-ego0&theme=radical&hide_border=false" alt="Lain-Ego's GitHub Streak" />
 </p>
 
