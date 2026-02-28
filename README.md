@@ -78,15 +78,6 @@ Beyond algorithm development, I have rich hands-on experience in **full-cycle ha
 - **[BRS Parallel Quadruped Robot](https://github.com/lain-ego0/ROBOCON-BRS_robot)** - Full-stack open-source project of a parallel-structure quadruped robot, including mechanical design, embedded control system, and motion planning algorithms. Applied in 2025 ROBOCON National Competition. `ROS2` `C++` `Mechanical Design` `Open Source`
 
 - **[HTDW4438 Isaac Gym RL Training Framework](https://github.com/lain-ego0/HTDW4438_Isaacgym)** - Reinforcement learning simulation training environment for quadruped robots, modified based on legged_gym, with completed sim2sim migration and locomotion policy training. `Python` `PyTorch` `Isaac Gym` `Reinforcement Learning` `Legged Locomotion`
-
-- **[ROBOCON 2025 Legged Robot](https://github.com/lain-ego0/ROBOCON-Legged-Robot)** - Full-stack R&D of legged robot for 2025 ROBOCON, covering mechanical modeling, force control algorithm, 3D LiDAR SLAM and autonomous navigation. Led the team to achieve top 35 results in 3 events of the national competition among 180+ teams. `Motion Control` `SLAM` `LiDAR` `ROS`
-
-- **[SliverWolf Desktop Quadruped Robot](https://github.com/lain-ego0/SliverWolf-ArmRobotDog)** - 12-DOF desktop serial quadruped robot driven by 9g servos, with IMU attitude control, voice interaction, and collaborative manipulation with a 6-DOF robotic arm. `STM32` `C` `Voice Control` `IMU` `Robotic Arm`
-
-- **[Bionic Lobster Underwater Robot](https://lain-ego0.github.io/)** - Multi-DOF bionic underwater robot with controllable buoyancy. Responsible for the full control system development, including stepper peristaltic pump control, motor/servo drive, gyroscope fusion, IIC encoder closed-loop, and vector propulsion model design. Won the Special Prize in Fujian Provincial Intelligent Marine Equipment Competition. `Embedded Systems` `Vector Propulsion` `Hardware Design` `Motor Control`
-
-- **[ROBOCON 2024 R1 Robot](https://github.com/lain-ego0/ROBOCON2024-R1)** - Embedded control system for agricultural robot based on FreeRTOS, with ±5mm positioning accuracy, realizing omni-directional chassis control, gripper manipulation and sphere launching functions. `FreeRTOS` `C` `Chassis Control` `Motor Control`
-
 ---
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
