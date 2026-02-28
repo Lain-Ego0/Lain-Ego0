@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lain-Ego;Robotics+Full-stack+Developer;Motion+Control+%7C+RL+%7C+Embodied+AI)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lain-Ego;Robotics+Full-stack+Developer;Motion+Control+%7C+RL)](https://git.io/typing-svg)
 
   <a href="https://lain-ego0.github.io/">
     <img src="https://img.shields.io/badge/High+Torque+Robotics-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" />
@@ -30,7 +30,7 @@ I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-sourc
 
 ### 📐 Modeling & CAD
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
-[![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)](https://www.altium.com/altium-designer/)
+[![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)](https://www.altium.com/altium-designer?srsltid=AfmBOook6fIkaguJdZspqAcIt6qL0xQVwT--_uMIXeI6Mh5a6klJZU-f)
 [![LCEDA](https://img.shields.io/badge/LCEDA-1890FF?style=flat-square&logo=easyeda&logoColor=white)](https://lceda.cn/)
 
 ### 🤖 Simulation & Robotics
@@ -54,7 +54,6 @@ I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-sourc
 
 ### 🧠 ML & Motion Control
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Model Predictive Control](https://img.shields.io/badge/Model_Predictive_Control-2F81F7?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/help/mpc/mpc-design.html)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 
 ### 🎛 Embedded Hardware
