@@ -8,7 +8,8 @@
   <a href="https://lain-ego0.github.io/">
     <img src="https://img.shields.io/badge/High+Torque+Robotics-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/ROBOCON+National+Award-FFD700?style=for-the-badge&logo=award&logoColor=black" />
+  <a href="http://robocon.org.cn/">
+    <img src="https://img.shields.io/badge/ROBOCON-FFD700?style=for-the-badge&logo=award&logoColor=black" />
 
 </div>
 
@@ -24,7 +25,7 @@ Beyond algorithm development, I have rich hands-on experience in **full-cycle ha
   <summary><b>中文版个人简介 (Click to expand)</b></summary>
   <p>你好！我是 <b>Lain-Ego</b>，本科大三在读，机器人开发爱好者、开源社区贡献者。目前于高擎机电实习，担任机器人工程实习生，专注于足式机器人全栈研发，致力于打通高可靠性硬件设计与高层智能算法的完整链路。</p>
   <p>我的研发方向聚焦于<b>具身智能</b>与<b>机器人全栈开发</b>，对足式机器人运动控制、强化学习 locomotion、基于激光雷达的SLAM感知技术有实践。熟悉STM32/ESP32嵌入式系统优化，以及ROS/ROS2使用与Mujoco仿真环境下的算法部署，旨在让机器人实现更自然、稳定、智能的交互与运动。</p>
-  <p>除算法开发外，我拥有一定的机器人本体设计经验——从PCB设计到SolidWorks完成机械建模，再到3D打印、CNC加工的全流程工艺把控。我坚信，机器人的未来，在于可靠的机械结构、高效的电子系统与前沿AI算法的深度融合。</p>
+  <p>具有机器人本体的设计经验——从SolidWorks完成机械建模到PCB设计，再到3D打印、CNC加工的全流程工艺把控。我坚信，机器人的未来，在于可靠的机械结构、高效的电子系统与前沿AI算法的深度融合。</p>
   <p>曾带队参与多届ROBOCON全国大学生机器人大赛，斩获多项国家级奖项；主导多个机器人开源项目，涵盖四足机器人机械设计、控制算法、仿真训练环境等全栈方案，持续为开源社区输出内容。</p>
 </details>
 
