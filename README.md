@@ -16,15 +16,15 @@
 
 I'm Lain-Ego, a junior undergraduate student, robotics enthusiast and open-source contributor. Currently, I'm working as a **Robotics Engineering Intern** at High Torque Robotics, focusing on the full-stack development of legged robots, bridging the gap between robust hardware design and high-level intelligent algorithms.
 
-My research and development work lies at the intersection of **embodied AI** and **full-stack robotics development**. I have a deep passion for motion control, reinforcement learning (RL) for legged locomotion, and LiDAR-based SLAM perception. I'm dedicated to optimizing embedded systems (STM32/ESP32) and deploying algorithms in ROS/ROS2 & Gazebo simulation environments, to make robots move more naturally, stably and intelligently.
+My research and development work lies at the intersection of **full-stack robotics development**. I have a deep passion for motion control, reinforcement learning (RL) for legged locomotion, and LiDAR-based SLAM perception. I'm dedicated to optimizing embedded systems (STM32/ESP32) and deploying algorithms in ROS/ROS2 & Gazebo simulation environments, to make robots move more naturally, stably and intelligently.
 
 Beyond algorithm development, I have rich hands-on experience in **full-cycle hardware design** — from complex PCB layout in Altium Designer, to mechanical structure modeling and simulation in SolidWorks, as well as manufacturing process control for 3D printing and CNC machining. I firmly believe that the future of robotics is the deep integration of robust mechanical design, high-efficiency electronic systems, and cutting-edge AI algorithms.
 
 <details>
   <summary><b>中文版个人简介 (Click to expand)</b></summary>
   <p>你好！我是 <b>Lain-Ego</b>，本科大三在读，机器人开发爱好者、开源社区贡献者。目前于高擎机电实习，担任机器人工程实习生，专注于足式机器人全栈研发，致力于打通高可靠性硬件设计与高层智能算法的完整链路。</p>
-  <p>我的研发方向聚焦于<b>具身智能</b>与<b>机器人全栈开发</b>，对足式机器人运动控制、强化学习 locomotion、基于激光雷达的SLAM感知技术有深入研究与实践。长期深耕STM32/ESP32嵌入式系统优化，以及ROS/ROS2、Gazebo仿真环境下的算法部署，旨在让机器人实现更自然、稳定、智能的运动。</p>
-  <p>除算法开发外，我拥有完整的硬件全流程设计经验——从Altium Designer完成复杂PCB布线，到SolidWorks完成机械结构建模与仿真，再到3D打印、CNC加工的全流程工艺把控。我坚信，机器人的未来，在于坚韧的机械结构、高效的电子系统与前沿AI算法的深度融合。</p>
+  <p>我的研发方向聚焦于<b>具身智能</b>与<b>机器人全栈开发</b>，对足式机器人运动控制、强化学习 locomotion、基于激光雷达的SLAM感知技术有实践。熟悉STM32/ESP32嵌入式系统优化，以及ROS/ROS2使用与Mujoco仿真环境下的算法部署，旨在让机器人实现更自然、稳定、智能的交互与运动。</p>
+  <p>除算法开发外，我拥有一定的机器人本体设计经验——从PCB设计到SolidWorks完成机械建模，再到3D打印、CNC加工的全流程工艺把控。我坚信，机器人的未来，在于可靠的机械结构、高效的电子系统与前沿AI算法的深度融合。</p>
   <p>曾带队参与多届ROBOCON全国大学生机器人大赛，斩获多项国家级奖项；主导多个机器人开源项目，涵盖四足机器人机械设计、控制算法、仿真训练环境等全栈方案，持续为开源社区输出内容。</p>
 </details>
 
