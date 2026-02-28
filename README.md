@@ -2,9 +2,6 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lain-Ego;Robotics+Full-stack+Developer;Motion+Control+%7C+RL+%7C+Embodied+AI)](https://git.io/typing-svg)
 
-  <a href="https://www.fjut.edu.cn/">
-    <img src="https://img.shields.io/badge/Fujian+University+of+Technology-004EA2?style=for-the-badge&logo=university&logoColor=white" />
-  </a>
   <a href="https://lain-ego0.github.io/">
     <img src="https://img.shields.io/badge/High+Torque+Robotics-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" />
   </a>
@@ -15,13 +12,13 @@
 
 ### 🚀 About Me
 
-I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-source contributor. Robotics Engineering Intern at High Torque Robotics, focusing on legged robots, embodied intelligence, motion control, RL locomotion, SLAM, and end-to-end hardware-software co-design. Led ROBOCON award-winning teams and multiple open-source quadruped robot projects.
+I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-source contributor. Robotics Engineering Intern at High Torque Robotics, leading R&D for legged robot Mini Qi. Core focus: RL-based legged locomotion, embedded optimization, and end-to-end robotics full-stack development. Multi-time ROBOCON national award winner, creator of open-source quadruped robot full-stack solutions.
 
 <details>
   <summary><b>中文版个人简介 (Click to expand)</b></summary>
   <p>你好！我是 <b>Lain-Ego</b>，本科大三在读，机器人开发爱好者、开源社区贡献者。目前于高擎机电实习，负责足式机器人Mini Qi研发。</p>
-  <p>我的研发方向聚焦于<b>具身智能</b>与<b>机器人全栈开发</b>，对足式机器人运动控制、强化学习 locomotion、基于激光雷达的SLAM感知技术有实践。熟悉STM32/ESP32嵌入式系统优化，以及ROS/ROS2使用与Mujoco仿真环境下的算法部署，旨在让机器人实现更自然、稳定、智能的交互与运动。</p>
-  <p>具有机器人本体的设计经验——从SolidWorks完成机械建模到PCB设计，再到3D打印、CNC加工的全流程工艺把控。我坚信，机器人的未来，在于可靠的机械结构、高效的电子系统与前沿AI算法的深度融合。</p>
+  <p>我的研发方向聚焦于足式机器人的强化学习 locomotion，熟悉嵌入式系统优化，旨在让机器人实现更自然、稳定、智能的交互与运动。</p>
+  <p>我具有机器人本体机械、硬件、控制、感知全栈开发经验。我坚信，机器人的未来，在于可靠的机械结构、高效的电子系统与前沿AI算法的深度融合。</p>
   <p>曾带队参与多届ROBOCON全国大学生机器人大赛，斩获多项国家级奖项；主导多个机器人开源项目，涵盖四足机器人机械设计、控制算法、仿真训练环境等全栈方案，持续为开源社区输出内容。</p>
 </details>
 
