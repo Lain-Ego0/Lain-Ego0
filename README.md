@@ -31,7 +31,7 @@ I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-sourc
 ### 📐 Modeling & CAD
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
 [![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)](https://www.altium.com/altium-designer/)
-[![LCEDA](https://img.shields.io/badge/LCEDA-1890FF?style=flat-square&logo=easyeda&logoColor=white)](https://lceda.cn/)
+[![JLCEDA](https://img.shields.io/badge/LCEDA-1890FF?style=flat-square&logo=easyeda&logoColor=white)](https://lceda.cn/)
 
 ### 🤖 Simulation & Robotics
 [![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)](https://wiki.ros.org/)
