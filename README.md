@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/My Homepages-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" />
   </a>
   <a href="http://robocon.org.cn/">
-    <img src="https://img.shields.io/badge/What is ROBOCON?-FFD700?style=for-the-badge&logo=award&logoColor=black" />
+    <img src="https://img.shields.io/badge/What's ROBOCON-FFD700?style=for-the-badge&logo=award&logoColor=black" />
 
 </div>
 
