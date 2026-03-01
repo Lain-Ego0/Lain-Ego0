@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-source contributor. Robotics Engineering Intern at High Torque Robotics, leading R&D for legged robot Mini Qi. Core focus: RL-based legged locomotion, embedded optimization, and end-to-end robotics full-stack development. Multi-time ROBOCON national award winner, creator of open-source quadruped robot full-stack solutions.
+I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-source contributor. Robotics Engineering Intern at High Torque Robotics, leading R&D for legged robot Mini Qi. Core focus: RL-based legged locomotion, embedded optimization, and end-to-end robotics full-stack development. Multi-time ROBOCON national award winner, creator of open-source quadruped robot solutions.
 
 <details>
   <summary><b>中文版个人简介 (Click to expand)</b></summary>
