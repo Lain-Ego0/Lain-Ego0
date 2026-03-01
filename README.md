@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lain-Ego;Robotics+Full-stack+Developer;Locomotion+Manipulation%7C+RL)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lain-Ego;Robotics+Full-stack+Developer;Locomotion%7C+Manipulation%7C+RL)](https://git.io/typing-svg)
 
   <a href="https://lain-ego0.github.io/">
     <img src="https://img.shields.io/badge/My Homepages-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" />
