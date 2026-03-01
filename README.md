@@ -77,6 +77,7 @@ I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-sourc
   <a href="mailto:lain-ego@qq.com" target="_blank"><img src="https://img.shields.io/badge/Email-lain--ego@qq.com-red?style=flat&logo=gmail&logoColor=white" height="25px"></a>&nbsp;
   <a href="https://github.com/lain-ego0" target="_blank"><img src="https://img.shields.io/badge/GitHub-Lain--Ego-black?style=flat&logo=github&logoColor=white" height="25px"></a>&nbsp;
   <a href="https://lain-ego0.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Personal_Homepage-blue?style=flat&logo=google-chrome&logoColor=white" height="25px"></a>&nbsp;
+  <a href="https://x.com/Lain_Ego0" target="_blank"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=flat&logo=x&logoColor=white" height="25px"></a>
   <a href="https://space.bilibili.com/385516781/upload/video" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white" height="25px"></a>&nbsp;
   <a href="https://www.zhihu.com/people/hua-99-50-21" target="_blank"><img src="https://img.shields.io/badge/Zhihu-0066FF?style=flat&logo=zhihu&logoColor=white" height="25px"></a>&nbsp;
 </p>
