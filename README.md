@@ -68,11 +68,11 @@ I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-sourc
 
 - **[BRS Parallel Quadruped Robot](https://github.com/lain-ego0/ROBOCON-BRS_robot)** - Full-stack open-source project of a parallel-structure quadruped robot, including mechanical design, embedded control system, and motion planning algorithms. Applied in 2025 ROBOCON National Competition. `ROS2` `C++` `Mechanical Design` `Open Source`
 
-- **[HTDW4438 Isaac Gym RL Training Framework](https://github.com/lain-ego0/HTDW4438_Isaacgym)** - Reinforcement learning simulation training environment for quadruped robots, modified based on legged_gym, with completed sim2sim migration and locomotion policy training. `Python` `PyTorch` `Isaac Gym` `Reinforcement Learning` `Legged Locomotion`
+- **[HTDW4438 OpenDog Quadruped Robot](https://github.com/Lain-Ego0/HTDW4438-OpenDog)** - Open-source implementation for HTDW4438-based OpenDog quadruped robot, involving hardware adaptation, control logic optimization, and locomotion algorithm deployment. `Quadruped Robotics` `Embedded System` `C/C++` `Open Source`
 
-- **[Lain's Notes / 个人笔记库](https://github.com/Lain-Ego0/Lain-s-Note)** - Comprehensive knowledge base covering quadruped robot development (theoretical basics, reinforcement learning practice, paper reproduction) and Ubuntu usage tips. Migrated to Feishu Docs for better cross-platform editing. `Documentation` `Quadruped Robotics` `Reinforcement Learning` `Ubuntu` `Knowledge Base`
----
----
+- **[ROBOCON 2024 R1 Competition Project](https://github.com/Lain-Ego0/ROBOCON2024-R1)** - Engineering implementation and full-set code for 2024 ROBOCON National Competition R1 track, covering robot motion control, task planning, and hardware integration. `ROBOCON` `ROS2` `Motion Control` `Competition Engineering`
+
+- **[LocoWiki - Quadruped Robotics Knowledge Base](https://github.com/Lain-Ego0/LocoWiki)** - Structured knowledge base for quadruped robot development, including core algorithms, hardware selection, simulation tools, and practical project cases. `Quadruped Robotics` `Documentation` `Knowledge Base` `Open Source`
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
