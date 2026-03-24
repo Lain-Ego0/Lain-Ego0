@@ -70,8 +70,6 @@ I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-sourc
 
 - **[HTDW4438 OpenDog Quadruped Robot](https://github.com/Lain-Ego0/HTDW4438-OpenDog)** - Open-source implementation for HTDW4438-based OpenDog quadruped robot, involving hardware adaptation, control logic optimization, and locomotion algorithm deployment. `Quadruped Robotics` `Embedded System` `C/C++` `Open Source`
 
-- **[ROBOCON 2024 R1 Competition Project](https://github.com/Lain-Ego0/ROBOCON2024-R1)** - Engineering implementation and full-set code for 2024 ROBOCON National Competition R1 track, covering robot motion control, task planning, and hardware integration. `ROBOCON` `ROS2` `Motion Control` `Competition Engineering`
-
 - **[LocoWiki - Quadruped Robotics Knowledge Base](https://github.com/LocoWiki/LocoWiki)** - Structured knowledge base for quadruped robot development, including core algorithms, hardware selection, simulation tools, and practical project cases. `Quadruped Robotics` `Documentation` `Knowledge Base` `Open Source`
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
