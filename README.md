@@ -26,6 +26,38 @@ I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-sourc
 
 ---
 
+### 📸 Featured Projects
+> Check out my [GitHub Repositories](https://github.com/lain-ego0?tab=repositories) for full source code and detailed documentation.
+
+- **[BRS Parallel Quadruped Robot](https://github.com/lain-ego0/ROBOCON-BRS_robot)** - Full-stack open-source project of a parallel-structure quadruped robot, including mechanical design, embedded control system, and motion planning algorithms. Applied in 2025 ROBOCON National Competition. `ROS2` `C++` `Mechanical Design` `Open Source`
+
+- **[HTDW4438 OpenDog Quadruped Robot](https://github.com/Lain-Ego0/HTDW4438-OpenDog)** - Open-source implementation for HTDW4438-based OpenDog quadruped robot, involving hardware adaptation, control logic optimization, and locomotion algorithm deployment. `Quadruped Robotics` `Embedded System` `C/C++` `Open Source`
+
+- **[LocoWiki - Quadruped Robotics Knowledge Base](https://github.com/LocoWiki/LocoWiki)** - Structured knowledge base for quadruped robot development, including core algorithms, hardware selection, simulation tools, and practical project cases. `Quadruped Robotics` `Documentation` `Knowledge Base` `Open Source`
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p>
+  <a href="mailto:lain-ego@qq.com" target="_blank"><img src="https://img.shields.io/badge/Email-lain--ego@qq.com-red?style=flat&logo=gmail&logoColor=white" height="25px"></a>&nbsp;
+  <a href="https://github.com/lain-ego0" target="_blank"><img src="https://img.shields.io/badge/GitHub-Lain--Ego-black?style=flat&logo=github&logoColor=white" height="25px"></a>&nbsp;
+  <a href="https://lain-ego0.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Personal_Homepage-blue?style=flat&logo=google-chrome&logoColor=white" height="25px"></a>&nbsp;
+  <a href="https://x.com/Lain_Ego0" target="_blank"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=flat&logo=x&logoColor=white" height="25px"></a>
+  <a href="https://space.bilibili.com/385516781/upload/video" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white" height="25px"></a>&nbsp;
+  <a href="https://www.zhihu.com/people/hua-99-50-21" target="_blank"><img src="https://img.shields.io/badge/Zhihu-0066FF?style=flat&logo=zhihu&logoColor=white" height="25px"></a>&nbsp;
+</p>
+
+<p align="center">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lain-ego0?style=social&logo=github">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/lain-ego0?style=social&logo=github">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lain-ego0&theme=radical&hide_border=false" alt="Lain-Ego's GitHub Streak" />
+</p>
+
+---
+
 ### 🛠 Technical Stack
 
 #### 📐 Modeling & CAD
@@ -56,38 +88,6 @@ I'm Lain-Ego, a junior undergraduate, robotics full-stack developer & open-sourc
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
-
----
-
-### 📸 Featured Projects
-> Check out my [GitHub Repositories](https://github.com/lain-ego0?tab=repositories) for full source code and detailed documentation.
-
-- **[BRS Parallel Quadruped Robot](https://github.com/lain-ego0/ROBOCON-BRS_robot)** - Full-stack open-source project of a parallel-structure quadruped robot, including mechanical design, embedded control system, and motion planning algorithms. Applied in 2025 ROBOCON National Competition. `ROS2` `C++` `Mechanical Design` `Open Source`
-
-- **[HTDW4438 OpenDog Quadruped Robot](https://github.com/Lain-Ego0/HTDW4438-OpenDog)** - Open-source implementation for HTDW4438-based OpenDog quadruped robot, involving hardware adaptation, control logic optimization, and locomotion algorithm deployment. `Quadruped Robotics` `Embedded System` `C/C++` `Open Source`
-
-- **[LocoWiki - Quadruped Robotics Knowledge Base](https://github.com/LocoWiki/LocoWiki)** - Structured knowledge base for quadruped robot development, including core algorithms, hardware selection, simulation tools, and practical project cases. `Quadruped Robotics` `Documentation` `Knowledge Base` `Open Source`
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p>
-  <a href="mailto:lain-ego@qq.com" target="_blank"><img src="https://img.shields.io/badge/Email-lain--ego@qq.com-red?style=flat&logo=gmail&logoColor=white" height="25px"></a>&nbsp;
-  <a href="https://github.com/lain-ego0" target="_blank"><img src="https://img.shields.io/badge/GitHub-Lain--Ego-black?style=flat&logo=github&logoColor=white" height="25px"></a>&nbsp;
-  <a href="https://lain-ego0.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Personal_Homepage-blue?style=flat&logo=google-chrome&logoColor=white" height="25px"></a>&nbsp;
-  <a href="https://x.com/Lain_Ego0" target="_blank"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=flat&logo=x&logoColor=white" height="25px"></a>
-  <a href="https://space.bilibili.com/385516781/upload/video" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white" height="25px"></a>&nbsp;
-  <a href="https://www.zhihu.com/people/hua-99-50-21" target="_blank"><img src="https://img.shields.io/badge/Zhihu-0066FF?style=flat&logo=zhihu&logoColor=white" height="25px"></a>&nbsp;
-</p>
-
-<p align="center">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lain-ego0?style=social&logo=github">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/lain-ego0?style=social&logo=github">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lain-ego0&theme=radical&hide_border=false" alt="Lain-Ego's GitHub Streak" />
-</p>
 
 ---
 
