@@ -119,10 +119,6 @@ My core interest is making **motion policies run reliably on real robots**. I wo
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Lain-Ego0?style=social&logo=github" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lain-Ego0&theme=radical&hide_border=false" alt="Lain-Ego's GitHub streak" />
-</p>
-
 ---
 
 <p align="center">
