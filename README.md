@@ -18,7 +18,7 @@
 
 I'm **Lain-Ego**, a robotics motion-control engineer and open-source community builder.
 
-I currently work as an early-stage motion-control member at **Questech**, contributing to its second- and third-generation humanoid robots. My work covers motion retargeting, real-time whole-body teleoperation, hierarchical reinforcement-learning policies, and robot perception preprocessing. Previously, I led locomotion deployment for an open-source quadruped at **HighTorque Robotics**, taking policies from simulation to real hardware.
+I currently work as an early-stage motion-control member at **Questech**, contributing to its humanoid robots. My work covers motion retargeting, real-time whole-body teleoperation, hierarchical reinforcement-learning policies, and robot perception preprocessing. Previously, I led locomotion deployment for an open-source quadruped at **HighTorque Robotics**, taking policies from simulation to real hardware.
 
 My core interest is making **motion policies run reliably on real robots**. I work across mechanical design, embedded systems, simulation, reinforcement learning, and full-stack deployment for humanoids, quadrupeds, wheeled-legged robots, and exoskeletons.
 
@@ -26,7 +26,7 @@ My core interest is making **motion policies run reliably on real robots**. I wo
   <summary><b>中文版个人简介（点击展开）</b></summary>
   <br />
   <p>你好，我是 <b>Lain-Ego</b>，机器人运动控制工程师与开源社区建设者。</p>
-  <p>目前作为迁星智能早期成员参与第二、三代人形机器人研发，主要负责动作重定向、低延迟全身遥操作、强化学习分层运控策略及机器人视觉预处理。此前曾在广州高擎动力主导开源小型四足机器人的运控部署与 Sim2Real 落地。</p>
+  <p>目前作为迁星智能早期成员参与人形机器人研发，主要负责动作重定向、低延迟全身遥操作、强化学习分层运控策略及机器人视觉预处理。此前曾在广州高擎动力主导开源小型四足机器人的运控部署与 Sim2Real 落地。</p>
   <p>我关注如何让运动策略在真实机器人上可靠运行，具备机械结构、电控嵌入式、仿真训练、强化学习与实机部署的跨栈研发经验，项目覆盖人形、四足、轮足机器人与主动式外骨骼。</p>
   <p>我曾任 ROBOCON 机器人队副队长，累计获得 30 余项国家级、省级竞赛奖项；同时创建 LocoWiki 运控社区并持续维护多个机器人开源项目。</p>
 </details>
